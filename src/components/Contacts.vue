@@ -56,6 +56,7 @@
                 fill="black"/>
             </svg>
           </div>
+
           <div
             v-motion
             :initial="{ opacity: 0, y: -20 }"
