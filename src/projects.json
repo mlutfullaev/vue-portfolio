@@ -1,4 +1,19 @@
 [
+  
+  {
+    "title": {
+      "ru": "Excel",
+      "en": "Excel"
+    },
+    "description": {
+      "ru": "Excel на нативном JavaScript, сделал кастомный фреймворк, роутинг(React Router), store(Redux). Написал unit test на (Jest)",
+      "en": "Excel application using native JavaScript, created a custom framework, custom routing like React Router and a store like Redux. Wrote unit tests using Jest."
+    },
+    "github": "https://github.com/mlutfullaev/excel/mlutfullaev/vue-crm",
+    "demo": "https://excel-mlutfullaev.vercel.app/",
+    "img": "excel-js.webp",
+    "stack": ["JavaScript", "Jest", "Custom Router", "Custom Store", "Basic Framework", "Scss"]
+  },
   {
     "title": {
       "ru": "CRM-система для расходов",
