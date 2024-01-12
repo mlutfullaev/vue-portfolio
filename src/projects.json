@@ -9,7 +9,7 @@
       "ru": "Excel на нативном JavaScript, сделал кастомный фреймворк, роутинг(React Router), store(Redux). Написал unit test на (Jest)",
       "en": "Excel application using native JavaScript, created a custom framework, custom routing like React Router and a store like Redux. Wrote unit tests using Jest."
     },
-    "github": "https://github.com/mlutfullaev/excel/mlutfullaev/vue-crm",
+    "github": "https://github.com/mlutfullaev/excel/",
     "demo": "https://excel-mlutfullaev.vercel.app/",
     "img": "excel-js.webp",
     "stack": ["JavaScript", "Jest", "Custom Router", "Custom Store", "Basic Framework", "Scss"]
@@ -25,7 +25,7 @@
     },
     "github": "https://github.com/mlutfullaev/vue-crm",
     "demo": "https://vue-crm-mlutfullaev.vercel.app/",
-    "img": "vue-crm.png",
+    "img": "vue-crm.webp",
     "stack": ["Vue", "Options API", "Authorization", "Firebase", "Materialize Css", "Validation", "Vuex"]
   },
   {
@@ -39,7 +39,7 @@
     },
     "github": "",
     "demo": "",
-    "img": "stones-admin.png",
+    "img": "stones-admin.webp",
     "stack": ["React", "TypeScript", "Scss", "API"]
   },
   {
@@ -53,7 +53,7 @@
     },
     "github": "",
     "demo": "https://vkamne.com/",
-    "img": "stones.png",
+    "img": "stones.webp",
     "stack": ["React", "Redux Toolkit", "TypeScript", "Scss", "API"]
   }
 ]
